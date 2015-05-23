@@ -29,30 +29,29 @@ public class MainActivity extends ActionBarActivity {
 
     private void omikuji() {
         int number = new Random().nextInt() % 7;
-        if 
-        switch (number) {
-            case 0:
-                result.setText(R.string.daikichi);
-                break;
-            case 1:
-                result.setText(R.string.chukichi);
-                break;
-            case 2:
-                result.setText(R.string.syokichi);
-                break;
-            case 3:
-                result.setText(R.string.suekichi);
-                break;
-            case 4:
-                result.setText(R.string.kichi);
-                break;
-            case 5:
-                result.setText(R.string.kyou);
-                break;
-            case 6:
-                result.setText(R.string.daikyou);
-                break;
-        }
+            switch (number) {
+                case 0:
+                    result.setText(R.string.daikichi);
+                    break;
+                case 1:
+                    result.setText(R.string.chukichi);
+                    break;
+                case 2:
+                    result.setText(R.string.syokichi);
+                    break;
+                case 3:
+                    result.setText(R.string.suekichi);
+                    break;
+                case 4:
+                    result.setText(R.string.kichi);
+                    break;
+                case 5:
+                    result.setText(R.string.kyou);
+                    break;
+                case 6:
+                    result.setText(R.string.daikyou);
+                    break;
+            }
     }
 
 

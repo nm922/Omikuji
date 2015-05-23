@@ -2,13 +2,13 @@
 
     <string name="app_name">Omikuji</string>
 
-    <string name="daikichi">大吉です！</string>
-    <string name="chukichi">中吉です！</string>
-    <string name="syokichi">小吉です！</string>
-    <string name="suekichi">末吉です！</string>
-    <string name="kichi">吉です！</string>
-    <string name="kyou">凶です…</string>
-    <string name="daikyou">大凶です…</string>
+    <string name="daikichi">大吉！</string>
+    <string name="chukichi">中吉！</string>
+    <string name="syokichi">小吉！</string>
+    <string name="suekichi">末吉！</string>
+    <string name="kichi">吉！</string>
+    <string name="kyou">凶…</string>
+    <string name="daikyou">大凶…</string>
     <string name="action_settings">Settings</string>
 
 </resources>
